@@ -1,0 +1,13 @@
+Exam_No,1_mark_topics,3_mark_topics,5_mark_topics,Difficulty
+1,"AboutML, KNN, Logistic, Linear, ROC, LDA","FSS, BSS, K-Cross Fold","Linear, ROC, KNN, LDA",Medium
+2,"AboutML, Linear, FSS, BSS, ROC, Logistic","KNN, LDA, K-Cross Fold","Logistic, BSS, FSS, ROC",Hard
+3,"KNN, Logistic, Linear, FSS, AboutML, ROC","LDA, K-Cross Fold, BSS","Linear, FSS, KNN, K-Cross Fold",Medium
+4,"AboutML, LDA, KNN, Linear, FSS, ROC","BSS, Logistic, K-Cross Fold","LDA, Logistic, ROC, Linear",Easy
+5,"Linear, ROC, KNN, AboutML, FSS, LDA","K-Cross Fold, BSS, Logistic","ROC, Linear, FSS, KNN",Medium
+6,"Logistic, KNN, AboutML, LDA, FSS, ROC","BSS, K-Cross Fold, Linear","LDA, Logistic, K-Cross Fold, ROC",Hard
+7,"FSS, BSS, ROC, KNN, AboutML, Linear","Logistic, LDA, K-Cross Fold","FSS, KNN, ROC, Linear",Medium
+8,"AboutML, ROC, KNN, Linear, LDA, Logistic","BSS, FSS, K-Cross Fold","Linear, ROC, LDA, Logistic",Easy
+9,"KNN, Linear, AboutML, FSS, ROC, LDA","K-Cross Fold, Logistic, BSS","Linear, ROC, KNN, LDA",Medium
+10,"AboutML, FSS, ROC, Logistic, KNN, Linear","BSS, K-Cross Fold, LDA","ROC, Linear, Logistic, KNN",Hard
+11,"LDA, AboutML, KNN, ROC, FSS, Linear","Logistic, BSS, K-Cross Fold","LDA, KNN, Linear, ROC",Medium
+12,"AboutML, Logistic, Linear, KNN, ROC, FSS","BSS, LDA, K-Cross Fold","Linear, ROC, LDA, Logistic",Easy
